@@ -7,4 +7,6 @@ The example sets refractive indices of 1, 2.5, 1 (air) from left, middle, and ri
 
 Source is Gaussian pulse with Maximum frequency 4 GHz.
 
+[![FDTD 1d]((https://github.com/seokhlee/EZ_FDTD/blob/main/FDTD_1Dmotion5G.mp4)](https://youtu.be/ih2BQoYWV8c)
+
 [![FDTD 2d] (https://img.youtube.com/vi/jG5y_ahyO9E/default.jpg)](https://youtu.be/jG5y_ahyO9E)
